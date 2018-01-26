@@ -7,3 +7,14 @@ paper references
 2. https://www.nature.com/articles/s41598-017-19129-5
 3. https://www.nature.com/articles/s41598-017-17637-y
 4. https://www.nature.com/articles/s41467-017-01785-w
+
+
+HW 2
+
+An Introduction to Magnetohydrodynamics.
+
+I was only able to get through a third of the paper.  It basically  breaks the paper down into three sections. The first section is EM. The second section is Fluid dynamics. The third section is combining the two.  In the first section about EM they talk about everything we learned in 481 except they also introduce Faraday’s law which is del X E = -dB/dt.
+
+The paper will continue to talk about things such as what Magnetohydrodynamics are. They are the motion of electrically conducting fluids.  The first ever Magnetohydrodynamics experiment was in 1832 by Michael Farraday. It also talked about how the Earth’s magnetic field can be explained with Magnetohydrodynamics. 
+
+The paper does not seem to make many approximations. It accepts that the computation of Magnetohydrodynamics is difficult.  I would like to learn more about Farradays law to get a better grasp on all of EM so that way I can spend time understanding The fluid dynamic motion.
