@@ -18,3 +18,69 @@ I was only able to get through a third of the paper.  It basically  breaks the p
 The paper will continue to talk about things such as what Magnetohydrodynamics are. They are the motion of electrically conducting fluids.  The first ever Magnetohydrodynamics experiment was in 1832 by Michael Farraday. It also talked about how the Earth’s magnetic field can be explained with Magnetohydrodynamics. 
 
 The paper does not seem to make many approximations. It accepts that the computation of Magnetohydrodynamics is difficult.  I would like to learn more about Farradays law to get a better grasp on all of EM so that way I can spend time understanding The fluid dynamic motion.
+
+Hw 3
+Continuing MGH
+Lenz's law helps us understand faradays law. It basically says that nature does not like flux and will induce a current to oppose the changing flux.
+The divergence of any curl is 0.
+so del*B=0. This then tells us that there are no magnetic monopoles.
+Thats is why if we break a magnet in half we don't get one north magnet and one south magnet, but two seperate magnets on their own.
+They then summarize maxwells equations and note that the divergence of ampere's law is not necesarilly zero at first.
+They then delve into equations of current density and find that it is indeed zero.
+a changing magnetic field induces an electric field and vice versa.
+They then take maxwells equations in free space. So del*E=0 and del*B=0
+This is where it gets fuzzy for me. They invoke the wave equation in the form of maxwells equations.
+It comes out to be del^2E=mu0*epsilon0*d^2E/dt^2. Same for B.
+They then show us that EM waves travel at the speed of light.
+Navier-Stokes.
+"Forces parallel to a fluids surface will affect its overall shape and behavior.
+Study fluids as a whole rather than individual particles. Like currents.
+Set one unit of fluid to be a cube where del*v=0
+net pressure on one side P=-dp/dx*dy*dz
+Complicated equation that says that acceleration is only defined at one point in time for a fluid.
+End up with Dv/Dt=(v*del)v+dv/dt
+fluids can experience acceleration even while having constant velocity. Centripetal acceleration is an example.
+the continuity equation for mass in fluid dynamics: del*rho*v=-drho/dt
+∂v∂t+(v·∇)v=−1ρ∇p−∇φ+fext. This is the Navier-Stokes equation for the acceleration of a fluid cube. At least one form.
+Define vorticity as ω=∇×v.  Vorticity is bascially a psuedovector of vectors around a point making a circle.
+It is like taking the tangent at every point on a circle.
+vorticity=0 because of the same reasons that del*B=0.
+We can then make a fluid mechanics version of the biot-savart law
+Helmholzt said that vortex lines move with the fluid.
+
+Disclaimer: I am having trouble understanding all of this material
+
+Next the paper talk about the energy of fluids flowing in a tube. It gives an expression for pressure, velocity, and cross-area
+They then relate this equation to energy.
+They then talk about viscosity. They state that the velocity of a fluid is zero on boundaries.
+Turbulence is a weird phenomena that occurs at high velocity.
+Only end up using three mmaxwells equations. We ommit gauss law.
+Alfven waves: fluid in magnetic field bends due to velocity but then bends back kind of like a guitar string.
+Then describes waves in MHD
+
+FLuid dynamics is still hard for me to understand. I will continue to try to learn but I feel like I am in over my head.
+I have only gone through this paper so hopefully the next paper will come more naturally.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
