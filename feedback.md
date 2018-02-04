@@ -3,9 +3,15 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 3
+
+Justin, it appears that you are digging into territory that is quite new to you. You're doing a great job of summarizing the facts and figures that are coming out of each paper. But, perhaps, we should meet this week (soon) to discuss the paper and what you are getting out of the papers. They might be a bit dense and a little discussion with someone else can be incredibly helpful in framing your paper and project summary, which is due at the end of the week. So let's try to do that. I'll send you an email about meeting.
+
+* Score: 16/20
+
 ## Assignment 2
 
-Justin, I'm glad that you started with the paper that introduces MHD. I think that you will need to finish that before you move on to the next papers, which I'm going to ask that you work on for this week as well. I know that there's a lot of reading to do, but this is important to developing a strong paper. Your summary suggests there's a lot of material in the paper, but I didn't see a lot of what you are learning from reading the paper. Make sure that as you read it, you are working to understand what they are talking about in the paper and that you are understanding what the necessary physics is. If you want to talk through some of that, we can do that as well. For next week, I'm hoping to see a detailed summary of this paper (you can dig into this one more if it's helping you understand the field better) and a summary of some other relevant paper.
+Justin, I'm glad that you started with the paper that introduces MHD. I think that you will need to finish that before you move on to the next papers, which I'm going to ask that you work on for this week as well. I know that there's a lot of reading to do, but this is important to developing a strong paper. Your summary suggests there's a lot of material in the paper, but I didn't see a lot of what you are learning from reading the paper. Make sure that as you read it, you are working to understand what they are talking about in the paper and that you are understanding what the necessary physics is. I think it would help you a lot to take notes while you are reading and use that to turn in a summary rather than trying to summarize after the fact. If you want to talk through some of that, we can do that as well. For next week, I'm hoping to see a detailed summary of this paper (you can dig into this one more if it's helping you understand the field better) and a summary of some other relevant paper.
 
 * Score: 16/20
 
