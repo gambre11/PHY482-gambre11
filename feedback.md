@@ -3,9 +3,15 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Justin, I think you have a lot of ideas in this paper and it would help you to organize your writing into sections. THat helps the reader know what you are presenting in a given place and what to expect going forward. It will also help you as you write the last draft for this week: what do I want to say about this and where is the right place to do that? Those are questions you must ask yourself when constructing this paper. So for this week, as you are completing your paper, think about organizational structure and how one section leads to the next. Regarding latex to word, you can use a module called pandoc (https://pandoc.org/) let me know if you need some help with it as it's a little odd the first time you use it. Also, I can help you insert a figure into LaTeX if you drop by. Again, it's not hard, but it is very different from the drang-and-drop nature of MS Word. Good luck finishing up this week!
+
+* Score: 16/20
+
 ## Assignment 5
 
-Justin, you've made some great progress this week. I think you have a lot of ideas written out, but as you note, you will need to digest more about what you are presenting in this paper. Like I said, thinking about just how EM fields can drive fluid flow from the Navier-Stokes perspective is a good start. That does involve a lot of unpacking of Navier Stokes itself as we as the relevant EM. I'm alos glad to see you using broader resources (like youtube to help you address your questions - I do that a lot when I'm learning a new analysis technique in ym research! Great work.
+Justin, you've made some great progress this week. I think you have a lot of ideas written out, but as you note, you will need to digest more about what you are presenting in this paper. Like I said, thinking about just how EM fields can drive fluid flow from the Navier-Stokes perspective is a good start. That does involve a lot of unpacking of Navier Stokes itself as we as the relevant EM. I'm also glad to see you using broader resources (like youtube to help you address your questions - I do that a lot when I'm learning a new analysis technique in ym research! Great work.
 
 * Score: 16/20
 
